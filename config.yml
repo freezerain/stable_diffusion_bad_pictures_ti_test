@@ -1,0 +1,13 @@
+grid:
+  title: bad_dream_ti_test
+  description: ''
+  format: png
+  author: Unspecified
+axes:
+  Model: trash\aZovyaRPGArtistTools_v3VAE.safetensors [c8094fea44]
+  Seed: 454456,1156454,1654654
+  CFG Scale: 4, 7, 9
+  Prompt: ' || masterpiece, extremely detailed, realistic, (cute:0.8), freckles:0.1, (best quality, detailed, perfect eyes, perfect face, feminine and enchanting:1), detailed eyes, RAW photo, beautifull lips, beautifull face, perfect eyes, hi res, Dramatic lighting, symmetric face, cinematic shot, Prime Lense, HDR, professional color grading, (best quality, masterpiece, official art, detailed)'
+  Negative Prompt: ' || (low quality, lowres, ugly, overexposure, horror), (monochrome, sketch, blurred, cartoon), (badly drawn face, bad drawn picture), (huge eyes, missing or extra body part, deformed body part, bad anatomy),'
+  Negative Prompt 2: ' || bad_pictures'
+  Negative Prompt 3: ' || negative_hand-neg || BadDream || verybadimagenegative_v1.3 || verybadimagenegative_v1.3 BadDream || CyberRealistic_Negative-neg || easynegative || ng_deepnegative_v1_75t || UnrealisticDream '
