@@ -6,7 +6,7 @@ Gen data:
 Steps: 20,
 Sampler: DPM++ SDE Karras,
 CFG scale: 7.0,
-Seed: 1156454,
+Seeds: 454456,1156454,1654654
 Size: 512x768,
 Model hash: c8094fea44,
 Model: aZovyaRPGArtistTools_v3VAE,
